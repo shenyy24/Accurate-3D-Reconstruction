@@ -1,0 +1,5 @@
+/home/hwj/desktop/qt/Infinitam/Infinitam/build/Engine/CMakeFiles/Engine.dir
+/home/hwj/desktop/qt/Infinitam/Infinitam/build/ITMLib/CMakeFiles/ITMLib.dir
+/home/hwj/desktop/qt/Infinitam/Infinitam/build/CMakeFiles/Infinitam.dir
+/home/hwj/desktop/qt/Infinitam/Infinitam/build/ORUtils/CMakeFiles/ORUtils.dir
+/home/hwj/desktop/qt/Infinitam/Infinitam/build/Utils/CMakeFiles/Utils.dir

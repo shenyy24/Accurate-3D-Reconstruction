@@ -1,0 +1,2 @@
+/usr/bin/ar cr libORUtils.a  CMakeFiles/ORUtils.dir/Dummy.cpp.o
+/usr/bin/ranlib libORUtils.a
